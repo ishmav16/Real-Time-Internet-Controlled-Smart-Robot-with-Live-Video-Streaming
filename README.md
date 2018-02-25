@@ -15,3 +15,6 @@ used to carry light load objects within a campus environment in a local network.
 # Requirements 
  php from WAMP/LAMP Server, Arduino Uno Software
 
+<p align="center">
+  <img src="screenshot.jpg">
+</p>
