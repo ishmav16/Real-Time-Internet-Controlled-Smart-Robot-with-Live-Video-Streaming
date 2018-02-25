@@ -13,7 +13,7 @@ remote monitoring of the vehicles is enabled using a high resolution pocket-size
 camera. A simple low cost prototype has been developed which is currently being
 used to carry light load objects within a campus environment in a local network. In real, it can be keep as in public domain and control from anywhere.
 
-  You can find the approach we developed in our paper [here](Final_Version_Paper.pdf) .
+  You can find the approach we developed in our paper [here](Final_Version_Paper.pdf). Also, find the brief presentation [here.](Presentation_LAMSYS.pdf) 
 # Requirements 
  php from WAMP/LAMP Server, Arduino Uno Software
 
