@@ -1,0 +1,40 @@
+
+.filename{font-weight:bold;}.filesize{color:red;}.logo{max-width : 200px;}.filedownloads{color:red;}.filename{font-weight:bold}.fileadded{color:red; background: transparent}.downloadbtn{background:white; text-align:center}.divdownload{max-width:320px; text-align:center}body{color : #545454;
+font:200 13px/1  Tahoma, Geneva, sans-serif;
+background-image : url(images/body.gif);
+background-attachment : fixed;
+max-width : 600px;
+margin : auto;
+ border-radius: 20px;}a:link{color : #1f8ba0;
+text-decoration : none;}a:visited{color : #1f8ba0;
+text-decoration : none;}a:hover{color : #62931d;
+text-decoration : none; font-weight:bold;}.head{text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #e4f4fd; 
+background-image : url(gmenu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 7px; 
+border : 1px solid #91d8ec; 
+text-align:left;
+font-weight:bold;}.error{color: #fd4646; background-color: #fff0f0; margin-top: 1px; margin-bottom: 1px; padding: 5px; border: 1px solid #ffd0d0;}.content{background-color : #f6f6f6; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 4px; 
+border : 1px solid #dfdfdf;}.foot{margin: 2px; padding: 7px; border: 1px solid #ece9e9; background: #f8f8f8; text-align;center; font-weight:bold;}.number{background-color : white; 
+padding : 2px; 
+border : 1px solid #dfdfdf;}.title{text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #e4f4fd; 
+background-image : url(gmenu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #91d8ec; 
+text-align:left;
+font-weight:bold;}.foothead{color: #ffffff; background-color: #425b89; margin-top: 1px; margin-bottom: 1px; padding: 8px; border: 1px solid #abbefb;}.mainhead{border-left: 4px solid #8ac007; color: #8ac007; margin-top: 3px; margin-left: 2px; padding-left: 4px; padding-top: 3px; padding-bottom: 3px; border-top: 1px solid #8ac007; border-right: 1px solid #8ac007; border-bottom: 1px solid #8ac007;}input, textarea { color: #656565; background: #fff; border: 1px solid #bbb; margin: 1px 0px; padding: 2px;} input[type=password], input[type=text], input[type=file] {max-width:100%;} 
+input[type=submit] {color: #656565; background: #ffffff url('http://wap.wapka.mobi/img/1404/1404479_11b7f010f4.gif') repeat-x bottom left; padding: 6px; border: 1px solid #cccccc; font-weight:bold;border-radius:5px; margin-top:3px; margin-bottom:3px; margin-left:5px; margin-right:5px;} 
+input:hover,textarea:hover,select:hover {color:##FF0000;border:1px solid #d1ecaa;background:#f5ffe7;}
+input:focus,textarea:focus,select:focus {color:#c94cca;border:1px solid #f4b4f4;background:#fff0ff;}
